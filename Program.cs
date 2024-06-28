@@ -10,7 +10,14 @@ namespace MyApplication
             string[] places = { "Banglore", "Shimoga", "Hassan", "Mysore", "Udupi" };
             Console.WriteLine(places.Length);
             
+          
             
+
+
+
+
+
+
         }
 
             } 
